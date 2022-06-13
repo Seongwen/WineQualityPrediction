@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/97740175/173348411-b3a9b165-3180-48e8-9cb2-f3b32b1abed5.png)
+
 # 와인의 화학적 성분을 통한 와인의 품질 예측
 
 사용한 데이터는 포르투갈 와인인 비노베르데 중 레드와인들을 다룬 데이터 셋입니다. 
